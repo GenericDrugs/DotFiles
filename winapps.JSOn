@@ -1,0 +1,326 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2024-11-10T23:11:37.316-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Bitwarden.Bitwarden"
+				},
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},
+				{
+					"PackageIdentifier" : "KRTirtho.Spotube"
+				},
+				{
+					"PackageIdentifier" : "Audacity.Audacity"
+				},
+				{
+					"PackageIdentifier" : "BurntSushi.ripgrep.MSVC"
+				},
+				{
+					"PackageIdentifier" : "CPUID.CPU-Z"
+				},
+				{
+					"PackageIdentifier" : "CPUID.HWMonitor"
+				},
+				{
+					"PackageIdentifier" : "GIMP.GIMP"
+				},
+				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
+					"PackageIdentifier" : "gurnec.HashCheckShellExtension"
+				},
+				{
+					"PackageIdentifier" : "ImageMagick.ImageMagick"
+				},
+				{
+					"PackageIdentifier" : "Notepad++.Notepad++"
+				},
+				{
+					"PackageIdentifier" : "DigitalExtremes.Warframe"
+				},
+				{
+					"PackageIdentifier" : "SumatraPDF.SumatraPDF"
+				},
+				{
+					"PackageIdentifier" : "Unigine.SuperpositionBenchmark"
+				},
+				{
+					"PackageIdentifier" : "TeamSpeakSystems.TeamSpeakClient"
+				},
+				{
+					"PackageIdentifier" : "AntibodySoftware.WizTree"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
+				},
+				{
+					"PackageIdentifier" : "AnthonyBeaumont.AchievementWatcher"
+				},
+				{
+					"PackageIdentifier" : "DuongDieuPhap.ImageGlass"
+				},
+				{
+					"PackageIdentifier" : "Apple.iTunes"
+				},
+				{
+					"PackageIdentifier" : "Kitware.CMake"
+				},
+				{
+					"PackageIdentifier" : "Apple.Bonjour"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VSTOR"
+				},
+				{
+					"PackageIdentifier" : "OpenVPNTechnologies.OpenVPN"
+				},
+				{
+					"PackageIdentifier" : "Apple.AppleApplicationSupport.x64"
+				},
+				{
+					"PackageIdentifier" : "ThePokemonCompany.PokemonTCGLive"
+				},
+				{
+					"PackageIdentifier" : "Apple.iCloud"
+				},
+				{
+					"PackageIdentifier" : "GoLang.Go"
+				},
+				{
+					"PackageIdentifier" : "Nilesoft.Shell"
+				},
+				{
+					"PackageIdentifier" : "Apple.AppleMobileDeviceSupport"
+				},
+				{
+					"PackageIdentifier" : "EclipseAdoptium.Temurin.21.JRE"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.PhysX"
+				},
+				{
+					"PackageIdentifier" : "TechPowerUp.NVCleanstall"
+				},
+				{
+					"PackageIdentifier" : "EclipseAdoptium.Temurin.11.JRE"
+				},
+				{
+					"PackageIdentifier" : "EclipseAdoptium.Temurin.8.JRE"
+				},
+				{
+					"PackageIdentifier" : "Flameshot.Flameshot"
+				},
+				{
+					"PackageIdentifier" : "MSI.Kombustor.4"
+				},
+				{
+					"PackageIdentifier" : "Open-Shell.Open-Shell-Menu"
+				},
+				{
+					"PackageIdentifier" : "Klocman.BulkCrapUninstaller"
+				},
+				{
+					"PackageIdentifier" : "Guru3D.Afterburner"
+				},
+				{
+					"PackageIdentifier" : "BleachBit.BleachBit"
+				},
+				{
+					"PackageIdentifier" : "HandBrake.HandBrake"
+				},
+				{
+					"PackageIdentifier" : "LLVM.LLVM"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.VideoEffectsSDK.20xx-Turing"
+				},
+				{
+					"PackageIdentifier" : "OBSProject.OBSStudio"
+				},
+				{
+					"PackageIdentifier" : "OpenTTD.OpenTTD"
+				},
+				{
+					"PackageIdentifier" : "Guru3D.RTSS"
+				},
+				{
+					"PackageIdentifier" : "Libretro.RetroArch"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "eliboa.TegraRcmGUI"
+				},
+				{
+					"PackageIdentifier" : "Ubisoft.Connect"
+				},
+				{
+					"PackageIdentifier" : "AppWork.JDownloader"
+				},
+				{
+					"PackageIdentifier" : "Nevcairiel.LAVFilters"
+				},
+				{
+					"PackageIdentifier" : "WinSCP.WinSCP"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
+				},
+				{
+					"PackageIdentifier" : "ElectronicArts.EADesktop"
+				},
+				{
+					"PackageIdentifier" : "bozbez.WinCaptureAudio.beta"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2005.x86"
+				},
+				{
+					"PackageIdentifier" : "GOG.Galaxy"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "TechPowerUp.GPU-Z"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier" : "Apple.AppleSoftwareUpdate"
+				},
+				{
+					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
+				},
+				{
+					"PackageIdentifier" : "ClockworkMod.UniversalADBDriver"
+				},
+				{
+					"PackageIdentifier" : "Apple.AppleApplicationSupport.x86"
+				},
+				{
+					"PackageIdentifier" : "QL-Win.QuickLook"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.XNARedist"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
+				},
+				{
+					"PackageIdentifier" : "ppy.osu"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "RamenSoftware.7+TaskbarTweaker"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord"
+				},
+				{
+					"PackageIdentifier" : "Foundry376.Mailspring"
+				},
+				{
+					"PackageIdentifier" : "Playnite.Playnite"
+				},
+				{
+					"PackageIdentifier" : "Rustlang.Rustup"
+				},
+				{
+					"PackageIdentifier" : "Spotify.Spotify"
+				},
+				{
+					"PackageIdentifier" : "erengy.Taiga"
+				},
+				{
+					"PackageIdentifier" : "goatcorp.XIVLauncher"
+				},
+				{
+					"PackageIdentifier" : "ebkr.r2modman"
+				},
+				{
+					"PackageIdentifier" : "Balena.Etcher"
+				},
+				{
+					"PackageIdentifier" : "VSCodium.VSCodium"
+				},
+				{
+					"PackageIdentifier" : "mpv.net"
+				},
+				{
+					"PackageIdentifier" : "LocalSend.LocalSend"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AppInstaller"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.9.25180"
+}
