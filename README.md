@@ -11,5 +11,5 @@ cat vs_code_extensions_list.txt | xargs -n 1 code --install-extension
 
 Install zip file for fonts
 
-Change line height in vs code to 1.2
+Change line height in vs code to 1.2 
 Change Font size in vs code to 13
