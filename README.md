@@ -1,2 +1,2 @@
 ## Personal DOT Files
-Only added winget app export for my Windows gaming machine
+This is where im going to be saving configurations i can use to spin my apps back up on different machines/OSes
