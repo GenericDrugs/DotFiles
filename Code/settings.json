@@ -1,9 +1,9 @@
 {
   "[css]": {
-      "editor.defaultFormatter": "vscode.css-language-features"
+    "editor.defaultFormatter": "vscode.css-language-features"
   },
   "[html]": {
-      "editor.defaultFormatter": "vscode.html-language-features"
+    "editor.defaultFormatter": "vscode.html-language-features"
   },
   "editor.accessibilitySupport": "off",
   "git.suggestSmartCommit": false,
@@ -27,4 +27,7 @@
   "workbench.sideBar.location": "right",
   "files.autoSave": "afterDelay",
   "workbench.colorTheme": "Catppuccin Mocha",
+  "telemetry.telemetryLevel": "off",
+  "go.inferGopath": true,
+  "go.inlayHints.assignVariableTypes": true,
 }
